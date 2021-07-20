@@ -1,0 +1,10 @@
+/home/ra0x1duk3/security/learning_rust/rust-redis-server/target/debug/deps/libstructopt_derive-3fd7c8563cacc4f1.so: /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/lib.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/attrs.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/doc_comments.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/parse.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/spanned.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/ty.rs
+
+/home/ra0x1duk3/security/learning_rust/rust-redis-server/target/debug/deps/structopt_derive-3fd7c8563cacc4f1.d: /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/lib.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/attrs.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/doc_comments.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/parse.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/spanned.rs /home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/ty.rs
+
+/home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/lib.rs:
+/home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/attrs.rs:
+/home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/doc_comments.rs:
+/home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/parse.rs:
+/home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/spanned.rs:
+/home/ra0x1duk3/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/ty.rs:
